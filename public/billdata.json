@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "bill_type": "Electricity",
+    "icon": "https://i.ibb.co.com/4ZC6HPzG/electrical.png",
+    "organization": "DESCO",
+    "account_number": "ELC-DESCO-001",
+    "billing_period": "March 2025",
+    "amount": 1890,
+    "status": "unpaid",
+    "due_date": "2025-03-22T06",
+    "paid": false
+  },
+  {
+    "id": 2,
+    "bill_type": "Water",
+    "icon": "https://i.ibb.co.com/W4DfnHTx/water.png",
+    "organization": "WASA",
+    "account_number": "WTR-WASA-003",
+    "billing_period": "March 2025",
+    "amount": 580,
+    "status": "unpaid",
+    "due_date": "2025-04-05T06",
+    "paid": false
+  },
+  {
+    "id": 3,
+    "bill_type": "Internet",
+    "icon": "https://i.ibb.co.com/9Lk9zwb/wifi.png",
+    "organization": "Link3",
+    "account_number": "INT-LINK3-004",
+    "billing_period": "April 2025",
+    "amount": 1250,
+    "status": "unpaid",
+    "due_date": "2025-04-10T06",
+    "paid": false
+  },
+  {
+    "id": 4,
+    "bill_type": "Mobile",
+    "icon": "https://i.ibb.co.com/CsPqMwvN/phone.png",
+    "organization": "Grameenphone",
+    "account_number": "MOB-GP-005",
+    "billing_period": "April 2025",
+    "amount": 450,
+    "status": "unpaid",
+    "due_date": "2025-04-03T06",
+    "paid": false
+  },
+  {
+    "id": 5,
+    "bill_type": "Gas",
+    "icon": "https://i.ibb.co.com/nMxdG2FZ/gas.png",
+    "organization": "Titas Gas",
+    "account_number": "GAS-TITAS-005",
+    "billing_period": "April 2025",
+    "amount": 820,
+    "status": "unpaid",
+    "due_date": "2025-04-20T06",
+    "paid": false
+  }
+]
